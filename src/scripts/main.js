@@ -24,11 +24,6 @@ const beatles = {
             name: "Ringo Starr",
             birth: 1940,
             death: null
-        },
-        {
-        name: "Ali",
-        birht: 1982,
-        death: null
         }
     ]
 }
